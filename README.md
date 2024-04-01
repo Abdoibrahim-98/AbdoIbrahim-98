@@ -4,7 +4,7 @@
 
 I am a fourth-year computer engineering student aspiring to transition into a career as a front-end developer. I have experience in Angular, React, JavaScript, CSS, and HTML, I am actively seeking an entry level position in the field of web development. I am enthusiastic about leveraging my programming knowledge and skills for continuous improvement in creating user-friendly and interactive web experiences.
 
-Skills:
+### Skills:
 
 [<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />](https://angular.io/)
 [<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />](https://reactjs.org/)
