@@ -17,8 +17,8 @@ I am a fourth-year computer engineering student aspiring to transition into a ca
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdoibrahim-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdo-ibrahim-4ba5b325a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdo_ibrahim_j/)  
 
-
-<div align="center">
+<!-- align="center" -->
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdoibrahim-98&show_icons=true&layout=compact&theme=dracula" height="150" alt="Github-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoibrahim-98&layout=compact&theme=dracula" height="150" alt="Github-stats">
 </div>
