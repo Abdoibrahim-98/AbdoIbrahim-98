@@ -2,7 +2,7 @@
 #### I am a Junior frontend developer
 ![I am a Junior forntend developer](https://media.licdn.com/dms/image/D4D16AQFfMRU0oA5d-Q/profile-displaybackgroundimage-shrink_350_1400/0/1690542543982?e=1717632000&v=beta&t=paVdqPWAyVweBtV291gY1DSae79pue9OELZfANtjTGY)
 
-I am a fourth-year computer engineering student aspiring to transition into a career as a front-end developer. I have experience in Angular, React, JavaScript, CSS, and HTML, I am actively seeking an entry level position in the field of web development. I am enthusiastic about leveraging my programming knowledge and skills for continuous improvement in creating user-friendly and interactive web experiences.
+I am a computer engineer aspiring to transition into a career as a front-end developer. I have experience in Angular, React, JavaScript, CSS, and HTML, I am actively seeking an entry level position in the field of web development. I am enthusiastic about leveraging my programming knowledge and skills for continuous improvement in creating user-friendly and interactive web experiences.
 
 ### Skills:
 
